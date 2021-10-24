@@ -1,11 +1,11 @@
 console.log(process.env);
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-    authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-    projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  apiKey: "AIzaSyBonhMe31aQ3gTfLEBu_ItXMb-WH66IEI0",
+  authDomain: "genius-car-machanics-ca68b.firebaseapp.com",
+  projectId: "genius-car-machanics-ca68b",
+  storageBucket: "genius-car-machanics-ca68b.appspot.com",
+  messagingSenderId: "540824592872",
+  appId: "1:540824592872:web:9b728e896d7c21a724045d",
 };
 
 export default firebaseConfig;
